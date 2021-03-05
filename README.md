@@ -16,3 +16,7 @@ WoCo Notepad is a cross-platform word processor with a Python application progra
 14.	Redo Changes
 15.	Font family Selection
 16.	Font size Selection
+17.	Make your text bold
+18.	Make your text italic
+19.	Underline your text
+20.	Font color chooser
