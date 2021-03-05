@@ -1,5 +1,5 @@
 # WoCo-Editor
-WoCo Notepad is a cross-platform word processor with a Python application programming interface (API). It natively provide many functions, and these functions can be used to edit the text. WoCo Notepad is now offering following list of features:
+WoCo Notepad is a cross-platform word processor with a Python application programming interface (API). It is available cross platform. It natively provide many functions, and these functions can be used to edit the text. WoCo Notepad is now offering following list of features:
 1.	Create New File
 2.	Open File
 3.	Save File
