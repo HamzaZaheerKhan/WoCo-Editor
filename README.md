@@ -30,3 +30,6 @@ WoCo Notepad is a cross-platform word processor with a Python application progra
 28.	Balloon text to show hint of respective functionality
 29.	Convert multiple images to PDF
 30.	Convert doc and docx to PDF
+31.	Covert file to PDF
+32.	Extract text from pdf file
+33.	Voice Recognition Assistant
